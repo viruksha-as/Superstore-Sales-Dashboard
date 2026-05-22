@@ -47,7 +47,7 @@ This project analyzes retail sales data to uncover insights around:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Sales-project/images/dashboard.png)
 
 ---
 
